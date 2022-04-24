@@ -4,7 +4,7 @@ In this project, Python was used to analyze the election results and calculate c
 
 ## Results
 * There were 369,711 votes cast in the election, as shown in the below screenshot of the vote total from the analysis.
-
+![Total Votes](https://github.com/AbeSchnake/Election-Analysis/blob/main/Images/total_votes.png)
 
 
 
