@@ -15,3 +15,5 @@ In this project, Python was used to analyze the election results and calculate c
 * Charles Casper Stockham received 85,213 votes (23.0% of the total), Diana DeGette received 272,892 votes (73.8% of the total), and Raymon Anthony Doane received 11,606 votes (3.1% of the total), as shown in the below screenshot from the analysis.
 ![Candidate Votes](https://github.com/AbeSchnake/Election-Analysis/blob/main/Images/candidate_votes.png)
 * Diana DeGette won the election with 272,892 votes (73.8% of the total).
+## Summary
+The script written for this analysis can be used for any election. The .csv file containing the election data would have to be changed to one corresponding to a different election, of course, in order to analyze a different election. As long as the file is in the same format it should work fine though. And if you want to use this script in something other than a state election, the script could be modified to output data for neighborhoods instead of counties (for a county election) or states instead of counties (for a federal election).
